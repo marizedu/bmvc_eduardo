@@ -1,0 +1,3 @@
+Esta pasta armazena o arquivo do banco de dados SQLite (banco.db), criado
+automaticamente na primeira execução com as tabelas user_account e produto
+e o usuário padrão admin / admin.
